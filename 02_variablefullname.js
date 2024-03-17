@@ -7,7 +7,9 @@ console.log(myFullName);
 console.log("========step 2=======");
 var myLove="l love js";
 console.log(myLove);
+
 console.log("========step 3=======");
+
 var firstName="First Name is-Pratibha";
 console.log(firstName);
 
